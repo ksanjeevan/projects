@@ -17,7 +17,7 @@ density estimation using [random forests](https://en.wikipedia.org/wiki/Random_f
 
 ------
 
-### [mapper -tda](https://github.com/ksanjeevan/mapper-tda)
+### [mapper-tda](https://github.com/ksanjeevan/mapper-tda)
 Implementation of [_Mapper_](http://www.nature.com/articles/srep01236) (Topological Data Analysis technique) for extracting insights from high dimensional data
 <p align="center">
 <img src="result_plots/mapper1.png" width="400"/><img src="result_plots/mapper2.png" width="400px"/>

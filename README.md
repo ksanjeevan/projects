@@ -1,7 +1,7 @@
 # projects
 
-### [audio-classif-us](https://github.com/ksanjeevan/audio-classif-us)
-pytorch GPU implementation of Spectrogram + CNN + LSTM networks for audio classification on the [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) dataset
+### [crnn-audio-classification](https://github.com/ksanjeevan/crnn-audio-classification)
+pytorch Spectrogram + CNN + LSTM networks for audio classification on the [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) dataset
 <p align="center">
 <img src="result_plots/specs1.png" width="650px"/>
 </p>

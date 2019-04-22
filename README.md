@@ -16,6 +16,14 @@ keras / tensorflow implementation of the state-of-the-art object detection syste
 
 ------
 
+### [torchparse](https://github.com/ksanjeevan/torchparse)
+simple pytorch model parser from a .cfg file
+<p align="center">
+<img src="result_plots/torchparse.png" width="650px"/>
+</p>
+
+------
+
 ### [randomforest-density-python](https://github.com/ksanjeevan/randomforest-density-python)
 density estimation using [random forests](https://en.wikipedia.org/wiki/Random_forest) and [kernel density estimation](https://en.wikipedia.org/wiki/Kernel_density_estimation)
 <p align="center">

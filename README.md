@@ -15,11 +15,10 @@ keras / tensorflow implementation of the state-of-the-art object detection syste
 </p>
 
 ------
-
-### [torchparse](https://github.com/ksanjeevan/torchparse)
-simple pytorch model parser from a .cfg file
+### contributions to [pytorch/audio](https://github.com/pytorch/audio)
+As a member of [torchaudio-contrib](https://github.com/keunwoochoi/torchaudio-contrib) (e.g., `phase_vocoder` on GPU):
 <p align="center">
-<img src="result_plots/torchparse.png" width="650px"/>
+<img src="result_plots/contrib_pv.png" width="600"/>
 </p>
 
 ------
@@ -36,6 +35,13 @@ density estimation using [random forests](https://en.wikipedia.org/wiki/Random_f
 implementation of [_Mapper_](http://www.nature.com/articles/srep01236) (Topological Data Analysis technique) for extracting insights from high dimensional data
 <p align="center">
 <img src="result_plots/mapper1.png" width="400"/><img src="result_plots/mapper2.png" width="400px"/>
+</p>
+
+------
+### [torchparse](https://github.com/ksanjeevan/torchparse)
+simple pytorch model parser from a .cfg file
+<p align="center">
+<img src="result_plots/torchparse.png" width="650px"/>
 </p>
 
 ------

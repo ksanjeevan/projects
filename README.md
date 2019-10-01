@@ -16,9 +16,9 @@ keras / tensorflow implementation of the state-of-the-art object detection syste
 
 ------
 ### contributions to [pytorch/audio](https://github.com/pytorch/audio)
-As a member of [torchaudio-contrib](https://github.com/keunwoochoi/torchaudio-contrib). e.g. [phase vocoder](http://www.ee.columbia.edu/~dpwe/resources/matlab/pvoc/) on GPU:
+implementations such as [phase vocoder](https://github.com/pytorch/audio/pull/131) on GPU, or spectrogram [time and frequency masking](https://github.com/pytorch/audio/pull/285):
 <p align="center">
-<img src="result_plots/contrib_pv.png" width="600"/>
+<img src="result_plots/torchaudio.png" width="900"/>
 </p>
 
 ------

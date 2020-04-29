@@ -25,7 +25,7 @@ implementations such as [phase vocoder](https://github.com/pytorch/audio/pull/13
 ### contribution to [mlflow](https://github.com/mlflow/mlflow)
 changes to allow mlflow docker projects [to use GPU](https://github.com/mlflow/mlflow/pull/2608):
 <p align="center">
-<img src="result_plots/mlflow.png" width="900"/>
+<img src="result_plots/mlflow.png" width="500"/>
 </p>
 
 ------

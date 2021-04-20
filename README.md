@@ -5,7 +5,7 @@
 numerically compute the receptive field of a conv block in pytorch
 
 <p align="center">
-<img src="result_plots/convex.png" width="300"/><img src="result_plots/receptive.gif" width="600px"/>
+<img src="result_plots/receptive.gif" width="500px"/>
 </p>
 
 ------

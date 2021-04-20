@@ -15,6 +15,16 @@ keras / tensorflow implementation of the state-of-the-art object detection syste
 </p>
 
 ------
+
+### [simple-receptive-field](https://github.com/ksanjeevan/simple-receptive-field)
+numerically compute the receptive field of a conv block in pytorch
+
+<p align="center">
+<img src="result_plots/receptive.gif" width="650px"/>
+</p>
+
+
+------
 ### contributions to [pytorch/audio](https://github.com/pytorch/audio)
 implementations such as [phase vocoder](https://github.com/pytorch/audio/pull/131) on GPU, or spectrogram [time and frequency masking](https://github.com/pytorch/audio/pull/285):
 <p align="center">

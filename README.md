@@ -20,7 +20,7 @@ keras / tensorflow implementation of the state-of-the-art object detection syste
 numerically compute the receptive field of a conv block in pytorch
 
 <p align="center">
-<img src="result_plots/receptive.gif" width="650px"/>
+<img src="result_plots/receptive.gif" width="850px"/>
 </p>
 
 

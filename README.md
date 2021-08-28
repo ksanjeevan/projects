@@ -1,6 +1,25 @@
 # projects
 
 
+### [crnn-audio-classification](https://github.com/ksanjeevan/crnn-audio-classification)
+pytorch Spectrogram + CNN + LSTM networks for audio classification on the [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) dataset
+<p align="center">
+<img src="result_plots/specs1.png" width="650px"/>
+</p>
+
+------
+
+### [ml-image-compression](https://github.com/ksanjeevan/ml-image-compression)
+learned image compression based on CNNs in tensorflow
+
+<p align="center">
+<img src="result_plots/comp.png" width="550px"/>
+</p>
+
+
+------
+
+
 ### [simple-receptive-field](https://github.com/ksanjeevan/simple-receptive-field)
 numerically compute the receptive field of a conv block in pytorch
 
@@ -8,13 +27,6 @@ numerically compute the receptive field of a conv block in pytorch
 <img src="result_plots/receptive.gif" width="650px"/>
 </p>
 
-------
-
-### [crnn-audio-classification](https://github.com/ksanjeevan/crnn-audio-classification)
-pytorch Spectrogram + CNN + LSTM networks for audio classification on the [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) dataset
-<p align="center">
-<img src="result_plots/specs1.png" width="650px"/>
-</p>
 
 ------
 

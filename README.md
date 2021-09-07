@@ -1,12 +1,23 @@
 # projects
 
+<p style="text-align:left;">
+<font size=5>
+<a href="https://github.com/ksanjeevan/crnn-audio-classification"><b>crnn-audio-classification </b></a>
+</font>
+    <span style="float:right;">
+        <img src="http://githubbadges.com/star.svg?user=ksanjeevan&repo=crnn-audio-classification" width="80px"/>
+    </span>
+</p>
 
-### [crnn-audio-classification](https://github.com/ksanjeevan/crnn-audio-classification)
 pytorch Spectrogram + CNN + LSTM networks for audio classification on the [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) dataset
+
 <p align="center">
 <img src="result_plots/specs1.png" width="650px"/>
 </p>
 
+<!---
+![star](http://githubbadges.com/star.svg?user=ksanjeevan&repo=crnn-audio-classification)
+-->
 ------
 
 ### [ml-image-compression](https://github.com/ksanjeevan/ml-image-compression)
@@ -15,6 +26,7 @@ learned image compression based on CNNs in tensorflow
 <p align="center">
 <img src="result_plots/comp.png" width="550px"/>
 </p>
+
 
 
 ------

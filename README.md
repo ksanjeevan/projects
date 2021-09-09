@@ -9,7 +9,6 @@
     </span>
 </p>
 
-
 pytorch Spectrogram + CNN + LSTM networks for audio classification on the [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) dataset
 
 <p align="center">
@@ -28,8 +27,6 @@ learned image compression based on CNNs in tensorflow
 <img src="result_plots/comp.png" width="550px"/>
 </p>
 
-
-
 ------
 
 <p style="text-align:left;">
@@ -46,10 +43,7 @@ keras / tensorflow implementation of the state-of-the-art object detection syste
 <img src="result_plots/dourflow.gif" width="650px"/>
 </p>
 
-
 ------
-
-
 
 ### [simple-receptive-field](https://github.com/ksanjeevan/simple-receptive-field)
 numerically compute the receptive field of a conv block in pytorch
@@ -58,9 +52,7 @@ numerically compute the receptive field of a conv block in pytorch
 <img src="result_plots/receptive.gif" width="650px"/>
 </p>
 
-
 ------
-
 
 ### contributions to [pytorch/audio](https://github.com/pytorch/audio)
 implementations such as [phase vocoder](https://github.com/pytorch/audio/pull/131) on GPU, or spectrogram [time and frequency masking](https://github.com/pytorch/audio/pull/285):
@@ -86,8 +78,8 @@ changes to allow mlflow docker projects [to use GPU](https://github.com/mlflow/m
     </span>
 </p>
 
+density estimation using [random forests](https://en.wikipedia.org/wiki/Random_forest) and [KDE](https://en.wikipedia.org/wiki/Kernel_density_estimation)
 
-density estimation using [random forests](https://en.wikipedia.org/wiki/Random_forest) and [kernel density estimation](https://en.wikipedia.org/wiki/Kernel_density_estimation)
 <p align="center">
 <img src="result_plots/density1.png" width="400"/><img src="result_plots/density2.png" width="400px"/>
 </p>
@@ -103,7 +95,6 @@ density estimation using [random forests](https://en.wikipedia.org/wiki/Random_f
     </span>
 </p>
 
-### [](https://github.com/ksanjeevan/mapper-tda)
 implementation of [_Mapper_](http://www.nature.com/articles/srep01236) (Topological Data Analysis technique) for extracting insights from high dimensional data
 <p align="center">
 <img src="result_plots/mapper1.png" width="400"/><img src="result_plots/mapper2.png" width="400px"/>

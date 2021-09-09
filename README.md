@@ -5,9 +5,10 @@
 <a href="https://github.com/ksanjeevan/crnn-audio-classification"><b>crnn-audio-classification </b></a>
 </font>
     <span style="float:right;">
-        <img src="http://githubbadges.com/star.svg?user=ksanjeevan&repo=crnn-audio-classification" width="80px"/>
+        <img src="https://img.shields.io/github/stars/ksanjeevan/crnn-audio-classification?style=social" width="100px"/>
     </span>
 </p>
+
 
 pytorch Spectrogram + CNN + LSTM networks for audio classification on the [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) dataset
 
@@ -31,6 +32,24 @@ learned image compression based on CNNs in tensorflow
 
 ------
 
+<p style="text-align:left;">
+<font size=5>
+<a href="https://github.com/ksanjeevan/dourflow"><b> dourflow </b></a>
+</font>
+    <span style="float:right;">
+        <img src="https://img.shields.io/github/stars/ksanjeevan/dourflow?style=social" width="100px"/>
+    </span>
+</p>
+
+keras / tensorflow implementation of the state-of-the-art object detection system [_You only look once_](https://pjreddie.com/darknet/yolo/)
+<p align="center">
+<img src="result_plots/dourflow.gif" width="650px"/>
+</p>
+
+
+------
+
+
 
 ### [simple-receptive-field](https://github.com/ksanjeevan/simple-receptive-field)
 numerically compute the receptive field of a conv block in pytorch
@@ -42,13 +61,6 @@ numerically compute the receptive field of a conv block in pytorch
 
 ------
 
-### [dourflow](https://github.com/ksanjeevan/dourflow)
-keras / tensorflow implementation of the state-of-the-art object detection system [_You only look once_](https://pjreddie.com/darknet/yolo/)
-<p align="center">
-<img src="result_plots/dourflow.gif" width="650px"/>
-</p>
-
-------
 
 ### contributions to [pytorch/audio](https://github.com/pytorch/audio)
 implementations such as [phase vocoder](https://github.com/pytorch/audio/pull/131) on GPU, or spectrogram [time and frequency masking](https://github.com/pytorch/audio/pull/285):
@@ -65,7 +77,16 @@ changes to allow mlflow docker projects [to use GPU](https://github.com/mlflow/m
 
 ------
 
-### [randomforest-density-python](https://github.com/ksanjeevan/randomforest-density-python)
+<p style="text-align:left;">
+<font size=5>
+<a href="https://github.com/ksanjeevan/randomforest-density-python"><b> randomforest-density-python </b></a>
+</font>
+    <span style="float:right;">
+        <img src="https://img.shields.io/github/stars/ksanjeevan/randomforest-density-python?style=social" width="100px"/>
+    </span>
+</p>
+
+
 density estimation using [random forests](https://en.wikipedia.org/wiki/Random_forest) and [kernel density estimation](https://en.wikipedia.org/wiki/Kernel_density_estimation)
 <p align="center">
 <img src="result_plots/density1.png" width="400"/><img src="result_plots/density2.png" width="400px"/>
@@ -73,7 +94,16 @@ density estimation using [random forests](https://en.wikipedia.org/wiki/Random_f
 
 ------
 
-### [mapper-tda](https://github.com/ksanjeevan/mapper-tda)
+<p style="text-align:left;">
+<font size=5>
+<a href="https://github.com/ksanjeevan/mapper-tda"><b> mapper-tda </b></a>
+</font>
+    <span style="float:right;">
+        <img src="https://img.shields.io/github/stars/ksanjeevan/mapper-tda?style=social" width="100px"/>
+    </span>
+</p>
+
+### [](https://github.com/ksanjeevan/mapper-tda)
 implementation of [_Mapper_](http://www.nature.com/articles/srep01236) (Topological Data Analysis technique) for extracting insights from high dimensional data
 <p align="center">
 <img src="result_plots/mapper1.png" width="400"/><img src="result_plots/mapper2.png" width="400px"/>

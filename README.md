@@ -29,6 +29,14 @@ learned image compression based on CNNs in tensorflow
 
 ------
 
+### contributions to [pytorch/audio](https://github.com/pytorch/audio)
+acknowledgement in the [torchaudio paper](https://arxiv.org/pdf/2110.15018.pdf); implementations such as [phase vocoder](https://github.com/pytorch/audio/pull/131) on GPU, or spectrogram [time and frequency masking](https://github.com/pytorch/audio/pull/285):
+<p align="center">
+<img src="result_plots/torchaudio.png" width="900"/>
+</p>
+
+------
+
 <p style="text-align:left;">
 <font size=5>
 <a href="https://github.com/ksanjeevan/dourflow"><b> dourflow </b></a>
@@ -45,6 +53,14 @@ keras / tensorflow implementation of the state-of-the-art object detection syste
 
 ------
 
+### contribution to [mlflow](https://github.com/mlflow/mlflow)
+changes to allow mlflow docker projects [to use GPU](https://github.com/mlflow/mlflow/pull/2608):
+<p align="center">
+<img src="result_plots/mlflow.png" width="700"/>
+</p>
+
+------
+
 ### [simple-receptive-field](https://github.com/ksanjeevan/simple-receptive-field)
 numerically compute the receptive field of a conv block in pytorch
 
@@ -52,20 +68,6 @@ numerically compute the receptive field of a conv block in pytorch
 <img src="result_plots/receptive.gif" width="650px"/>
 </p>
 
-------
-
-### contributions to [pytorch/audio](https://github.com/pytorch/audio)
-implementations such as [phase vocoder](https://github.com/pytorch/audio/pull/131) on GPU, or spectrogram [time and frequency masking](https://github.com/pytorch/audio/pull/285):
-<p align="center">
-<img src="result_plots/torchaudio.png" width="900"/>
-</p>
-
-------
-### contribution to [mlflow](https://github.com/mlflow/mlflow)
-changes to allow mlflow docker projects [to use GPU](https://github.com/mlflow/mlflow/pull/2608):
-<p align="center">
-<img src="result_plots/mlflow.png" width="700"/>
-</p>
 
 ------
 

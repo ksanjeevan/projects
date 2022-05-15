@@ -1,7 +1,4 @@
 <p style="text-align:left;">
-<font size=6>
-<b>projects </b>
-</font>
     <span style="float:right;color:#C8C8C8;">
 			<b>Kiran Sanjeevan Cabeza </b>
     </span>
@@ -25,14 +22,6 @@ pytorch Spectrogram + CNN + LSTM networks for audio classification on the [Urban
 <!---
 ![star](http://githubbadges.com/star.svg?user=ksanjeevan&repo=crnn-audio-classification)
 -->
-------
-
-### [ml-image-compression](https://github.com/ksanjeevan/ml-image-compression)
-learned image compression based on CNNs in tensorflow
-
-<p align="center">
-<img src="result_plots/comp.png" width="550px"/>
-</p>
 
 ------
 
@@ -60,11 +49,32 @@ keras / tensorflow implementation of the state-of-the-art object detection syste
 
 ------
 
+### [fauxgrad](https://github.com/ksanjeevan/fauxgrad)
+a toy library and [tutorial](https://colab.research.google.com/github/ksanjeevan/fauxgrad/blob/master/fauxgrad_walkthrough.ipynb) for learning the idea behind [autodiff](https://en.wikipedia.org/wiki/Automatic_differentiation)
+
+<p align="center">
+<img src="result_plots/sgd.png" width="650px"/>
+</p>
+
+
+------
+
 ### contribution to [mlflow](https://github.com/mlflow/mlflow)
 changes to allow mlflow docker projects [to use GPU](https://github.com/mlflow/mlflow/pull/2608):
 <p align="center">
 <img src="result_plots/mlflow.png" width="700"/>
 </p>
+
+
+------
+
+### [ml-image-compression](https://github.com/ksanjeevan/ml-image-compression)
+learned image compression based on CNNs in tensorflow
+
+<p align="center">
+<img src="result_plots/comp.png" width="550px"/>
+</p>
+
 
 ------
 

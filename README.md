@@ -1,7 +1,5 @@
-<p style="text-align:left;">
-    <span style="float:right;color:#C8C8C8;">
+<p style="text-align:right;color:#C8C8C8;">
 			<b>Kiran Sanjeevan Cabeza </b>
-    </span>
 </p>
 
 <p style="text-align:left;">
